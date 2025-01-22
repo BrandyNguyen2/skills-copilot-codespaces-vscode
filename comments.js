@@ -1,4 +1,5 @@
 // Create web server
+// Run "node comments.js" in terminal to start server
 
 const http = require('http');
 
